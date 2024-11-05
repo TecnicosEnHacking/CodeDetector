@@ -16,16 +16,16 @@ La herramienta requiere Python 3 y las siguientes librerías:
 - `re`
 - `os`
 
-##Clonamos el repositorio
+## Clonamos el repositorio
 ```bash
 git clone https://github.com/TecnicosEnHacking/CodeDetector
 cd CodeDetector
 ```
-##Instalar dependencias
+## Instalar dependencias
 ```bash
 pip install -r requirements.txt
 ```
-##Ejecucion de la herramienta
+## Ejecucion de la herramienta
 ```bash
 python CodeDetector.py
 ```
